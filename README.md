@@ -1,2 +1,2 @@
 ## Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="50fa3c01-55a3-4f06-a441-039fe4877b53" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![pybites-certified-python-developer-pro-pcpd-p](https://github.com/cjstein/cjstein/assets/33003756/ef206e16-4b70-47f1-abe9-b9db6d8d861e)
